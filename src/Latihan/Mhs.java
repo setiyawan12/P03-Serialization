@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Choco Calon Presiden RI
+ * @author Yayang setiyawan
  */
 public class Mhs {
      public static void main(String[] args) throws ClassNotFoundException {
@@ -81,3 +81,4 @@ public class Mhs {
     
     }
 }
+
